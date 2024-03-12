@@ -1,0 +1,78 @@
+{
+  "name": "bit-ocean-extension-pack",
+  "displayName": "Bit Ocean Extension Pack",
+  "version": "0.0.1",
+  "description": "Bit Ocean internal VSCode extension pack.",
+  "author": "Bruce Song <recall4056@gmail.com> (https://github.com/recallwei/)",
+  "publisher": "bit-ocean",
+  "homepage": "https://github.com/bit-ocean-studio/vscode-extension-pack#readme",
+  "bugs": "https://github.com/bit-ocean-studio/vscode-extension-pack/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bit-ocean-studio/vscode-extension-pack.git"
+  },
+  "icon": "resources/icon.png",
+  "galleryBanner": {
+    "color": "#fafafa",
+    "theme": "light"
+  },
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "astro-build.astro-vscode",
+    "mgmcdermott.vscode-language-babel",
+    "aaron-bond.better-comments",
+    "antfu.icons-carbon",
+    "streetsidesoftware.code-spell-checker",
+    "naumovs.color-highlight",
+    "clinyong.vscode-css-modules",
+    "ms-azuretools.vscode-docker",
+    "dotenv.dotenv-vscode",
+    "dracula-theme.theme-dracula",
+    "EditorConfig.EditorConfig",
+    "usernamehw.errorlens",
+    "Tobermory.es6-string-html",
+    "dbaeumer.vscode-eslint",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "antfu.goto-alias",
+    "antfu.iconify",
+    "kisstkondoros.vscode-gutter-preview",
+    "wix.vscode-import-cost",
+    "oderwat.indent-rainbow",
+    "moalamri.inline-fold",
+    "ms-vscode.vscode-typescript-next",
+    "DavidAnson.vscode-markdownlint",
+    "PKief.material-icon-theme",
+    "unifiedjs.vscode-mdx",
+    "folke.vscode-monorepo-workspace",
+    "william-voyek.vscode-nginx",
+    "ahmadalli.vscode-nginx-conf",
+    "nrwl.angular-console",
+    "vunguyentuan.vscode-postcss",
+    "hoovercj.vscode-power-mode",
+    "esbenp.prettier-vscode",
+    "yoavbls.pretty-ts-errors",
+    "Prisma.prisma",
+    "timonwong.shellcheck",
+    "bradlc.vscode-tailwindcss",
+    "tauri-apps.tauri-vscode",
+    "wayou.vscode-todo-highlight",
+    "johnsoncodehk.vscode-tsconfig-helper",
+    "pflannery.vscode-versionlens",
+    "vitest.explorer",
+    "Vue.volar",
+    "WakaTime.vscode-wakatime"
+  ],
+  "scripts": {
+    "gen": "node scripts/gen-extensions"
+  },
+  "private": true,
+  "license": "MIT"
+}

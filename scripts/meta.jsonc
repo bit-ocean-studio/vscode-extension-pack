@@ -1,0 +1,48 @@
+[
+  "astro-build.astro-vscode", // Astro
+  "mgmcdermott.vscode-language-babel", // Babel JavaScript
+  "aaron-bond.better-comments", // Better Comments
+  "antfu.icons-carbon", // Carbon Product Icons
+  "streetsidesoftware.code-spell-checker", // Code Spell Checker
+  "naumovs.color-highlight", // Color Highlight
+  "clinyong.vscode-css-modules", // CSS Modules
+  "ms-azuretools.vscode-docker", // Docker
+  "dotenv.dotenv-vscode", // Dotenv Official
+  "dracula-theme.theme-dracula", // Dracula Official
+  "EditorConfig.EditorConfig", // EditorConfig
+  "usernamehw.errorlens", // Error Lens
+  "Tobermory.es6-string-html", // ES6 String HTML
+  "dbaeumer.vscode-eslint", // ESLint
+  "mhutchie.git-graph", // Git Graph
+  "donjayamanne.githistory", // Git History
+  "GitHub.copilot", // GitHub Copilot
+  "GitHub.copilot-chat", // GitHub Copilot Chat
+  "antfu.goto-alias", // Goto Definition Alias
+  "antfu.iconify", // Iconify IntelliSense
+  "kisstkondoros.vscode-gutter-preview", // Image Preview
+  "wix.vscode-import-cost", // Image Cost
+  "oderwat.indent-rainbow", // Indent Rainbow
+  "moalamri.inline-fold", // Inline Fold
+  "ms-vscode.vscode-typescript-next", // JavaScript and TypeScript Nightly
+  "DavidAnson.vscode-markdownlint", // Markdown Lint
+  "PKief.material-icon-theme", // Material Icon Theme
+  "unifiedjs.vscode-mdx", // MDX
+  "folke.vscode-monorepo-workspace", // Monorepo Workspace
+  "william-voyek.vscode-nginx", // Nginx Configuration
+  "ahmadalli.vscode-nginx-conf", // Nginx Configuration Language Support
+  "nrwl.angular-console", // Nx Console
+  "vunguyentuan.vscode-postcss", // PostCSS
+  "hoovercj.vscode-power-mode", // Power Mode
+  "esbenp.prettier-vscode", // Prettier
+  "yoavbls.pretty-ts-errors", // Pretty TypeScript Errors
+  "Prisma.prisma", // Prisma
+  "timonwong.shellcheck", // Shell Check
+  "bradlc.vscode-tailwindcss", // Tailwind CSS Intellisense
+  "tauri-apps.tauri-vscode", // Tauri
+  "wayou.vscode-todo-highlight", // TODO Highlight
+  "johnsoncodehk.vscode-tsconfig-helper", // TSConfig Helper
+  "pflannery.vscode-versionlens", // Version Lens
+  "vitest.explorer", // Vitest
+  "Vue.volar", // Vue
+  "WakaTime.vscode-wakatime" // WakaTime
+]
