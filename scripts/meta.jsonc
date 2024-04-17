@@ -13,6 +13,7 @@
   "usernamehw.errorlens", // Error Lens
   "Tobermory.es6-string-html", // ES6 String HTML
   "dbaeumer.vscode-eslint", // ESLint
+  "tamasfe.even-better-toml", // Even Better TOML
   "mhutchie.git-graph", // Git Graph
   "donjayamanne.githistory", // Git History
   "GitHub.copilot", // GitHub Copilot
