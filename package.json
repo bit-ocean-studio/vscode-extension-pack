@@ -1,7 +1,7 @@
 {
   "name": "bit-ocean-extension-pack",
   "displayName": "Bit Ocean Extension Pack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Bit Ocean internal VSCode extension pack.",
   "author": "Bruce Song <recall4056@gmail.com> (https://github.com/recallwei/)",
   "publisher": "bit-ocean",
